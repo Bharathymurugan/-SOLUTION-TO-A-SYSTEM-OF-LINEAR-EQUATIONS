@@ -26,7 +26,8 @@ print(Result)
 ```
 
 ## Output:
-![alt text](<MATai exp1-1.png>)
+![alt text](<MATai exp1.png>)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
